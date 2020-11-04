@@ -1,0 +1,30 @@
+.btn-light{
+    border-radius: 0;
+}
+.mail{
+    border-bottom: 1px gainsboro  solid;
+    min-height:50px;
+    cursor:pointer;
+}
+.mail:hover{
+    box-shadow: 0 2px 2px #929292;
+}
+.readed{
+    background-color: rgba(0, 0, 0, 0.041);
+}
+.container{
+
+    margin:0;
+}
+.row{
+    width:100%;
+}
+.find{
+    min-height:50px;
+    width:100%;
+    border-radius: 0;
+    background-color: rgb(236, 235, 235);
+}
+
+
+
